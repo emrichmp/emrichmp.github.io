@@ -1,5 +1,7 @@
 # Portfolio Website Repo
 
+CURRENTLY REBUILDING WEBSITE!
+
 Hi! My name is Emrich-Michael Perrier and I am a Full Stack Software Developer, specializing in Ruby, Ruby on Rails, SQL and JavaScript
 including React/Redux.
 
