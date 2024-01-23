@@ -182,6 +182,12 @@ body {
   body {
     min-width: 320px;
   }
+  .work_image {
+    width: 90%;
+  }
+  #intro {
+    height: 100vh;
+  }
 }
 
 html {
