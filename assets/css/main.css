@@ -163,6 +163,10 @@ textarea {
   font-size: large;
 }
 
+.fun_image {
+  width: 40%;
+}
+
 .image {
   width: 90%;
 }
